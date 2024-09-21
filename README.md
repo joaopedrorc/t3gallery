@@ -1,6 +1,6 @@
 # Create T3 App
 
-- [] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
 - [] Scaffold basic UI with mock data
 - [] Actually set up a database (vercel postgress)
 - [] Attach database to UI
